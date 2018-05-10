@@ -17,3 +17,4 @@ This project also features scheduing using cron jobs where users can select the 
 
 ## Analytics
 The project has analytics to predict the monthly bill based on usage patterns and the users can also visualise the monthly energy consumption data.
+Chart.js has been used to make visualistaions. The data is fetched from the database as a JSON file and then visualised.
